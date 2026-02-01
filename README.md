@@ -1,3 +1,3 @@
 ## README
 
-Repository for Base R function episode 1 : Filter function 
+Repository for Base R function fan episode 1 : Filter function 
