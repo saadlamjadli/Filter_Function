@@ -51,7 +51,7 @@ cust_filter(is.numeric, x)
 cust_filter("is.numeric", x)
 cust_filter(quote(is.numeric) , x)
 
-# Apply = iteration , Filter = selection 
+# Apply = itération , Filter = sélection 
 
 lapply(list(5,"a",10,20,TRUE), is.numeric)
 cust_filter(is.numeric,list(5,"a",10,20,TRUE))
